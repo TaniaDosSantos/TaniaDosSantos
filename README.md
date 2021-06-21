@@ -1,4 +1,11 @@
-- 👋 Hi, I’m Tânia Dos Santos
+<!-- welcome message -->
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+
+<h3>Glad to see you here!</h3>
+
+
+
+- 👋 I’m Tânia Dos Santos
 - 👀 I’m interested in networking, learn new skills and make part off challenging projects :computer:.
 - 🌱 I’m currently learning Flutter, mobile UI/UX design and prototyping.
 
@@ -10,16 +17,24 @@
 </p>
 
 
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaniaDosSantos&theme=algolia&show_icons=true)
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TaniaDosSantos)](https://git.io/streak-stats)
  
-<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[YOUR_LINKEDIN_USERNAME]" />
-
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-TaniaDosSantos)
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=TaniaDosSantos.id)
  
+
+
+
+
+
+<!---
+TaniaDosSantos/TaniaDosSantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank">
 
@@ -28,11 +43,4 @@
 
 
 </p>
-
-
-
-
-<!---
-TaniaDosSantos/TaniaDosSantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
