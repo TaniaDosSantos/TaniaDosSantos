@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/tânia-dos-santos-a31680b7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/t%C3%A2nia-dos-santos-a31680b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/loreane.santos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  alt="" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tania.loreane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="color: #4064AC!important;" alt="" height="30" width="40" /></a>
 </p>
