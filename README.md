@@ -1,46 +1,93 @@
-<!-- welcome message -->
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h1 align="center"> ✨ Welcome to My GitHub Profile ✨</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7F7F7&background=00172B&center=true&vCenter=true&width=600&height=60&lines=%7C+Software+Developer+%7C;%7C+Flutter+Developer+%7C;%7C+Odoo+Developer+%7C;%7C+UI/UX+Design+%7C;" alt="Typing SVG">
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tânia-dos-santos-a31680b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ <a href="mailto:tloreane27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+ </a>  
+ <!--<a href="https://github.com/TaniaDosSantos?tab=followers">
+    <img src="https://img.shields.io/github/followers/TaniaDosSantos?label=Follow&style=for-the-badge&color=green" alt="GitHub Followers"/>
+ </a>-->
+</p>
 
-<h3>Glad to see you here!</h3>
+---
+
+<h2 style={fontweight:600}><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hello there!</p>
 
 
+---
 
-- 👋 I’m Tânia Dos Santos
-- 👀 I’m interested in networking, learn new skills and make part off challenging projects :computer:.
-- 🌱 I’m currently learning Flutter, mobile UI/UX design and prototyping.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/t%C3%A2nia-dos-santos-a31680b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/loreane.santos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  alt="" height="30" width="40" /></a>
-<a href="https://www.facebook.com/tania.loreane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="color: #4064AC!important;" alt="" height="30" width="40" /></a>
+## 💫 About Me
+<p>
+  I'm <strong>Tânia dos Santos</strong>, a passionate software developer with a love for innovation and creativity. Welcome to my corner of the digital world, where you can explore my latest projects, collaborations, and learn more about my journey in tech.
 </p>
 
 
+- 💼 **Current Position**: Software Developer at [NOSi]([https://company-website.com](https://nosi.cv/))
+- 🎓 **Education**: BSc in Informatics Management from [Universidade do Minelo]([https://university-website.com](https://um.edu.cv/))
+- 🌍 **Location**: Praia, Santiago - Cape Verd
+- 🚀 **Focus Areas**: UI/ UX Design, Software Development, ODOO, Flutter
+
+---
+
+## 🌟 Personal Projects
+
+### [Talk Ma Mi](https://github.com/TaniaDosSantos/talk_ma_mi)
+
+🚀 **Description**: Mobile app to allow native cape-verdean speakers talk to tourist  in their language and vice-versa.
+
+- **Tecnologes**: Flutter, Firebase, Kafka
+- **Main Functions**:
+  - Text to speach translation
+  - Creole dictionary contribution
+  - Integration with AI
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Odoo-A24689?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Flutter-ffffff?style=flat-square&logo=flutter&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/-Pycharm-ffffff?style=flat-square&logo=pycharm&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaniaDosSantos&theme=algolia&show_icons=true)
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TaniaDosSantos)](https://git.io/streak-stats)
- 
 
+---
 
-![](https://komarev.com/ghpvc/?username=your-github-TaniaDosSantos)
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=TaniaDosSantos.id)
- 
+## 💬 Let's Connect
 
+I'm always open to new opportunities, collaborations, and connections! Feel free to reach out through any of the platforms below:
 
-
-
-
-<!---
-TaniaDosSantos/TaniaDosSantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank">
-
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/tânia-dos-santos-a31680b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ <a href="mailto:tloreane27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+ </a>  
 </p>
---->
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D4D12AQH8wFBWTJpYRQ/article-cover_image-shrink_600_2000/0/1688545854206?e=2147483647&v=beta&t=p3lTJ2HQaiXzEqUOzfQq2QRvfwrqjfuh8nTT3u6lgM0" alt="Footer Image" width="600px"/>
+</p>
+
+<p align="center">
+  Made with ❤️ 
+</p>
+
