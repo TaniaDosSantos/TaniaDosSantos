@@ -63,12 +63,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaniaDosSantos&theme=algolia&show_icons=true)
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TaniaDosSantos)](https://git.io/streak-stats)
-
----
 
 ## 💬 Let's Connect
 
