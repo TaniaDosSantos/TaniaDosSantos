@@ -1,6 +1,6 @@
 <h1 align="center"> ✨ Welcome to My GitHub Profile ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7F7F7&background=00172B&center=true&vCenter=true&width=600&height=60&lines=%7C+Software+Developer+%7C;%7C+Flutter+Developer+%7C;%7C+Odoo+Developer+%7C;%7C+UI/UX+Design+%7C;%7C+React+%7C" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7F7F7&background=00172B&center=true&vCenter=true&width=600&height=60&lines=%7C+Software+Developer+%7C;%7C+Flutter+Developer+%7C;%7C+Odoo+Developer+%7C;%7C+SharePoint+Developer+%7C;%7C+UI/UX+Design+%7C;%7C+React+%7C" alt="Typing SVG">
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/tânia-dos-santos-a31680b7/">
@@ -30,7 +30,7 @@
 - 💼 **Current Position**: Software Developer at [NOSi](https://nosi.cv/)
 - 🎓 **Education**: BSc in Informatics Management from [Universidade do Mindelo](https://um.edu.cv/)
 - 🌍 **Location**: Praia, Santiago - Cape Verde
-- 🚀 **Focus Areas**: UI/UX Design, Software Development, ODOO, Flutter
+- 🚀 **Focus Areas**: UI/UX Design, Software Development, ODOO, Flutter, SharePoint
 
 ---
 
